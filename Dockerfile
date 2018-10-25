@@ -1,7 +1,6 @@
 FROM        ubuntu:16.04
 MAINTAINER  freehycon
 
-COPY        .ssh /root/.ssh
 COPY        run.sh /root/run.sh
 RUN         apt-get update
 RUN         apt-get -y -qq install vim git curl build-essential 
