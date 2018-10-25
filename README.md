@@ -2,7 +2,7 @@
 
 ```bash
 ## clone the repository
-$ git clone git@github.com:thyeem/docker.git
+$ git clone https://github.com/freeolpark/docker.git
 $ tree docker
 docker/
 ├── Dockerfile
@@ -36,5 +36,9 @@ $ ./start.sh --main
 $ ./start.sh --sub
 $ ./start.sh --stratum
 ```
+
+
+
+#### Example of running ./configure
 
 ![Example of configure](config_example.png)
