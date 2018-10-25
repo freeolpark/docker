@@ -13,7 +13,6 @@ RUN         npm install -g pm2
 RUN         git clone https://github.com/freeolpark/freehycon.git /root/main
 
 WORKDIR     /root/main
-RUN         git checkout release
 RUN         npm run clear 
 RUN         npm install 
 
