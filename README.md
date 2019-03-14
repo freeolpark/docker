@@ -1,5 +1,5 @@
 ## FreeHycon source 
-Please refer to [FreeHycon](https://github.com/freeolpark/docker.git) to look around `FreeHycon` project
+Please refer to [FreeHycon](https://github.com/freeolpark/freehycon.git) to look around `FreeHycon` project
 ## Installation of FreeHycon Mining Pool
 
 ```bash
